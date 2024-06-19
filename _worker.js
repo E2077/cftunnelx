@@ -970,11 +970,9 @@ function getVLESSConfig(userIDs, hostName) {
 		const vlessMain = 'vless://' + userID + '@' + hostName + commonUrlPart;
 		const vlessSec = 'vless://' + userID + '@' + proxyIP + commonUrlPart;
 		return `################################################################
-telegram 交流群 技术大佬~在线交流!
-t.me/AM_CLUBS
 ---------------------------------------------------------------
 github 项目地址 Star!Star!Star!!!
-https://github.com/ansoncloud8/am-tunnel
+https://github.com/E2077/cftunnelx
 ---------------------------------------------------------------
 ################################################################
 
